@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP_Predictor", "PP_Predictor\PP_Predictor.csproj", "{406A0A4C-F896-4DA2-84E7-F78F57723A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{33AFA84C-EC47-477E-A8A9-62339F89361F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredictorTester", "PredictorTester\PredictorTester.csproj", "{BDA2CC02-9E56-41B2-80CB-AA459BE0913F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406A0A4C-F896-4DA2-84E7-F78F57723A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406A0A4C-F896-4DA2-84E7-F78F57723A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406A0A4C-F896-4DA2-84E7-F78F57723A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406A0A4C-F896-4DA2-84E7-F78F57723A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33AFA84C-EC47-477E-A8A9-62339F89361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AFA84C-EC47-477E-A8A9-62339F89361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AFA84C-EC47-477E-A8A9-62339F89361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AFA84C-EC47-477E-A8A9-62339F89361F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA2CC02-9E56-41B2-80CB-AA459BE0913F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA2CC02-9E56-41B2-80CB-AA459BE0913F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA2CC02-9E56-41B2-80CB-AA459BE0913F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA2CC02-9E56-41B2-80CB-AA459BE0913F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
